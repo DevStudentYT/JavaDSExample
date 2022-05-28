@@ -11,5 +11,6 @@ public class App2 {
         }
 
         System.out.println("Hola soy un cambio para git");
+        System.out.println("Soy un cambio un cambio pequeno");
     }
 }
