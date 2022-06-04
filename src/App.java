@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        String[] listaDeAutos = {"Volvo", "BMW", "Ford", "Mazda", "Toyota", "Nissan"};
+        String[] listaDeAutos = {"Bugatti", "BMW", "Ford", "Mazda", "Toyota", "Nissan"};
 
         System.out.println("Lista de inicio a fin");
         for(int i=0; i <=  listaDeAutos.length-1; i++){
