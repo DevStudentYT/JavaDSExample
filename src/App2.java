@@ -86,6 +86,5 @@ public class App2 {
 
         System.out.println("Sum = " + sum);
         System.out.println("Average = " + average);
-
     }
 }
